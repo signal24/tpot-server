@@ -1,7 +1,7 @@
 {
   "name": "tpot-server",
-  "version": "0.1.0",
-  "description": "TPOT (Transport Packets over Tunnels): A simple (optionally authenticated) remote development/test/demo proxy over HTTP, powered by WebSockets. No additional ports required. Designed to be used with a reverse proxy for TLS.",
+  "version": "0.2.0",
+  "description": "TPoT (Transport Packets over Tunnels): A simple (optionally authenticated) remote development/test/demo proxy over HTTP, powered by WebSockets. No additional ports required. Designed to be used with a reverse proxy for TLS.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
